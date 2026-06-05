@@ -113,4 +113,4 @@ We use CSS overflow clipping combined with GSAP translations to move internal im
 While this project focuses on frontend engineering and motion design, I also build backend-heavy applications involving business workflows, databases, inventory systems, and operational software.
 
 PharmaCare ERP:  
-[PharmaCare ERP](https://github.com/YOUR_USERNAME/pharmacare-erp)
+[PharmaCare ERP](https://github.com/ishaanpadashetty/pharmacare-erp)
